@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://Doratmon.github.io"
+baseurl = "https://Doratmon.github.io/BlogSource"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
